@@ -1,10 +1,23 @@
 # Javascript
 ## context
-  ### Preview 
+  - Preview 
  
 
 ## Preview
+  - Syntax and Basics
+  - Client-Side Scripting
+  - Variables and Data Types
+  - Functions
+  - Events
+  - DOM Manipulation
+  - Asynchronous Programming
+  - AJAX
+  - Frameworks and Libraries
+  - Browser Compatibility
+  - Security Considerations
+  - Server-Side JavaScript
 
+    
 JavaScript is a widely used programming language primarily known for its ability to add interactivity and dynamic behavior to websites. It is a crucial component of web development, enabling developers to create engaging user experiences, manipulate the Document Object Model (DOM), and communicate with servers using asynchronous requests. Here's a brief overview of some key aspects of JavaScript:
 
 1. **Syntax and Basics:** JavaScript's syntax is similar to other C-style languages, making it relatively easy for developers familiar with programming concepts to pick up. It's a case-sensitive language and uses semicolons to terminate statements.
