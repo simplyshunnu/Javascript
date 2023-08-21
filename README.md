@@ -1,3 +1,4 @@
+
 # Javascript
 ## Context
   - Preview
@@ -54,7 +55,23 @@ In summary, JavaScript is a versatile and powerful programming language that pla
 
 
 
+
 ## Founding and History:
+
+
+
+
+
+
+![brendaneich25607 web_](https://github.com/simplyshunnu/Javascript/assets/127955482/7a81cea0-9e84-4892-998a-97b95d5f20ce)
+
+
+
+
+
+
+
+
 JavaScript was created by Brendan Eich while he was working at Netscape Communications Corporation in the mid-1990s. The language was initially called "Mocha" and then "LiveScript" before being renamed "JavaScript" to capitalize on the growing popularity of Java, another programming language at the time. The first version of JavaScript, known as ECMAScript 1, was standardized by the European Computer Manufacturers Association (ECMA) in 1997 through the ECMAScript specification.
 
 JavaScript rapidly gained traction due to its ability to enhance the interactivity of web pages. It allowed developers to create features like form validation, image sliders, and interactive content that responded to user actions, without requiring constant page reloads. This contributed to the rise of dynamic and user-friendly web applications.
